@@ -7,7 +7,7 @@ This repository documents my solutions, configurations, and theoretical notes fr
 
 Each level introduces new networking challenges — from basic local network communication to complex multi-router environments connected to the Internet.
 
-This project was completed as part of the **Ecole 42 curriculum**, focusing on **hands-on problem-solving** and **conceptual clarity** in computer networks.
+This project was completed as part of the **1337 School curriculum**, focusing on **hands-on problem-solving** and **conceptual clarity** in computer networks.
 
 ---
 
@@ -143,13 +143,13 @@ R1: 0.0.0.0/0 → 163.172.250.1
 * `/24` or `/30` only cover limited IP ranges (local networks).
 * Routers use the **most specific match**, so `/0` ensures all external traffic goes to the Internet gateway.
 
-🛠️ Result: All hosts and routers achieved Internet connectivity.
+✅ Result: All hosts and routers achieved Internet connectivity.
 
 ---
 
 ## 🧪 Tools & Environment
 
-* **NetPractice** (Ecole 42 networking project platform)
+* **NetPractice** (1337 School networking project platform)
 * **Wireshark** (for packet inspection)
 * **Cisco Packet Tracer / GNS3** (for conceptual practice)
 * **Linux utilities:**
@@ -159,7 +159,7 @@ R1: 0.0.0.0/0 → 163.172.250.1
 
 ---
 
-## 🧽 Key Takeaways
+## 🧭 Key Takeaways
 
 * Deep understanding of **IP routing logic** and **network communication**.
 * Ability to design and troubleshoot **complex topologies**.
@@ -179,10 +179,10 @@ R1: 0.0.0.0/0 → 163.172.250.1
 
 ## 👨‍💻 Author
 
-**Your Name**
-Network Engineering Student • Ecole 1337 • Aspiring Systems & Security Engineer
+**Adam Zahraoui**
+Network Engineering Student • 1337 School • Aspiring Systems & Security Engineer
 📧 [adamzahraoui30@gmail.com](mailto:adamzahraoui30@gmail.com)
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/)
+🌐 [LinkedIn: Adam Zahraoui](https://www.linkedin.com/in/adam-zahraoui-a9bb8a32a/)
 
 ---
 
